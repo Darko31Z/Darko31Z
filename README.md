@@ -1,9 +1,10 @@
-
-✦ Hola, soy Darío ✦
+# ✦ Hola, soy Darío ✦
 
 > Programador junior | Aprendiendo, creando y convirtiendo ideas en código.
 
-![Banner personalizado](https://stock.adobe.com/search?k=anime+banner)
+<p align="center">
+  <img src="banner-anime.png" alt="Banner anime" width="100%" />
+</p>
 
 ## ☁️ Un poco sobre mí
 
@@ -25,23 +26,23 @@
 
 ## 🖼️ Mi espacio creativo
 
-<!-- Cambia cada URL por la imagen que quieras. Puedes subirlas al repositorio o usar enlaces públicos. -->
+<!-- Reemplaza estas tres rutas por los nombres de tus propias imágenes, guardadas junto al README. -->
 
 <p align="center">
-  <img src="https://pin.it/64Sk03y0v" width="30%" alt="Imagen personalizada 1" />
-  <img src="https://placehold.co/320x220/302839/f2d9ff?text=Imagen+2" width="30%" alt="Imagen personalizada 2" />
-  <img src="https://placehold.co/320x220/3b3045/f2d9ff?text=Imagen+3" width="30%" alt="Imagen personalizada 3" />
+  <img src="imagen-1.png" width="30%" alt="Imagen personalizada 1" />
+  <img src="imagen-2.png" width="30%" alt="Imagen personalizada 2" />
+  <img src="imagen-3.png" width="30%" alt="Imagen personalizada 3" />
 </p>
 
 ## 🌙 Ahora mismo
 
 - 📚 Aprendiendo: **Python**
-- 🔭 Trabajando en: **proyectitos mios**
+- 🔭 Trabajando en: **proyectitos míos**
 - 🎯 Próximo objetivo: **Pasar a la historia**
 
 ## 📫 Encuéntrame
 
-- Email: [ultradario20@gmail.com](ultradario20@gmail.com)
+- Email: [ultradario20@gmail.com](mailto:ultradario20@gmail.com)
 
 <p align="center">
   <sub>2D mejor que 3D</sub>
