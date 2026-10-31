@@ -1,6 +1,6 @@
 <img src="assets/banner.png" width="100%" alt="banner" />
 
-<h1 align="center">darío</h1>
+<h1 align="center">Darío Torres</h1>
 
 <p align="center">
   <sub>programador junior &nbsp;·&nbsp; java, web y lo que se ponga por delante &nbsp;·&nbsp; 2D &gt; 3D</sub>
