@@ -81,15 +81,6 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
 <br>
 
-### 🥬 estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darko31Z&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39C5BB&icon_color=E12885&text_color=c9d1d9&locale=es" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darko31Z&layout=compact&hide_border=true&bg_color=0d1117&title_color=39C5BB&text_color=c9d1d9&locale=es" height="165" alt="lenguajes" />
-</p>
-
-<br>
-
 ### 🥬 contacto
 
 <img src="assets/imagen-4.jpg" align="right" width="160" alt="" />
