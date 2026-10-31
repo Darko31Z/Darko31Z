@@ -28,7 +28,7 @@
 <!-- Cambia cada URL por la imagen que quieras. Puedes subirlas al repositorio o usar enlaces públicos. -->
 
 <p align="center">
-  <img src="https://placehold.co/320x220/24202e/f2d9ff?text=Imagen+1" width="30%" alt="Imagen personalizada 1" />
+  <img src="https://pin.it/64Sk03y0v" width="30%" alt="Imagen personalizada 1" />
   <img src="https://placehold.co/320x220/302839/f2d9ff?text=Imagen+2" width="30%" alt="Imagen personalizada 2" />
   <img src="https://placehold.co/320x220/3b3045/f2d9ff?text=Imagen+3" width="30%" alt="Imagen personalizada 3" />
 </p>
