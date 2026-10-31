@@ -1,8 +1,9 @@
+
 ✦ Hola, soy Darío ✦
 
 > Programador junior | Aprendiendo, creando y convirtiendo ideas en código.
 
-![Banner personalizado](https://pin.it/7ENYWmsqS)
+![Banner personalizado](<img width="733" height="187" alt="descarga" src="https://github.com/user-attachments/assets/0bce58a7-bf10-460d-8258-6d1ff8118855" />)
 
 ## ☁️ Un poco sobre mí
 
