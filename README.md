@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" width="100%" alt="banner" />
+<img src="assets/banner.png" width="100%" alt="banner" />
 
 <h1 align="center">Darío Torres</h1>
 
@@ -10,7 +10,7 @@
 
 ### 🥬 sobre mí
 
-<img src="assets/imagen-1.jpg" align="right" width="200" alt="" />
+<img src="assets/imagen-1.png" align="right" width="200" alt="" />
 
 Hago cosas con código desde hace poco y me lo paso bastante bien. Casi todo lo que hay por aquí son proyectos míos: unos salen bien, otros no tanto, pero de todos aprendo algo. Me tira mucho lo que mezcla programación con algo visual o creativo.
 
@@ -23,7 +23,7 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
 <table>
   <tr>
-    <td align="center"><img src="assets/imagen-2.jpg" width="180" alt="" /><br><sub>#031</sub></td>
+    <td align="center"><img src="assets/imagen-2.png" width="180" alt="" /><br><sub>#031</sub></td>
     <td>
       <table>
         <tr><td><b>Nº</b></td><td>#031 &nbsp;·&nbsp; Darko31Z</td></tr>
@@ -43,7 +43,7 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
 ### 🥬 con qué trabajo
 
-<img src="assets/imagen-5.jpg" align="right" width="170" alt="" />
+<img src="assets/imagen-5.png" align="right" width="170" alt="" />
 
 <p>
   <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39C5BB" alt="Java" />
@@ -64,7 +64,7 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
 ### 🥬 ahora mismo
 
-<p align="center"><img src="assets/imagen-3.jpg" width="220" alt="portada" /></p>
+<p align="center"><img src="assets/imagen-3.png" width="220" alt="portada" /></p>
 
 ```
 ♪ now playing
@@ -83,7 +83,7 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
 ### 🥬 contacto
 
-<img src="assets/imagen-4.jpg" align="right" width="160" alt="" />
+<img src="assets/imagen-4.png" align="right" width="160" alt="" />
 
 **¡El entrenador Darío te desafía!**
 
@@ -97,7 +97,7 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
   <br>
   <p align="center">
     ↑ ↑ ↓ ↓ ← → ← → B A<br><br>
-    <img src="assets/imagen-6.jpg" width="200" alt="" /><br>
+    <img src="assets/imagen-6.png" width="200" alt="" /><br>
     <b>¡Un MissingNo. salvaje apareció!</b><br>
     <sub>bueno, era yo. ya que estás aquí: el pastel es mentira y Miku sigue teniendo 16 años.</sub>
   </p>
