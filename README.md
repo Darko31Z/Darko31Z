@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" alt="banner" />
+<img src="assets/banner.jpg" width="100%" alt="banner" />
 
 <h1 align="center">Darío Torres</h1>
 
@@ -45,9 +45,9 @@ objetivo      →  pasar a la historia
 <br>
 
 <p align="center">
-  <img src="assets/imagen-1.png" width="32%" alt="" />
-  <img src="assets/imagen-2.png" width="32%" alt="" />
-  <img src="assets/imagen-3.png" width="32%" alt="" />
+  <img src="assets/imagen-1.jpg" width="32%" alt="" />
+  <img src="assets/imagen-2.jpg" width="32%" alt="" />
+  <img src="assets/imagen-3.jpg" width="32%" alt="" />
 </p>
 
 <br>
