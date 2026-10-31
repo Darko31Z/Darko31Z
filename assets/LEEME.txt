@@ -1,0 +1,7 @@
+Pega aqui tus imagenes con ESTOS nombres exactos (en .jpg):
+
+  banner.jpg
+  imagen-1.jpg  imagen-2.jpg  imagen-3.jpg
+  imagen-4.jpg  imagen-5.jpg  imagen-6.jpg
+
+Borra este archivo antes de subir.

@@ -3,12 +3,12 @@
 <h1 align="center">Darío Torres</h1>
 
 <p align="center">
-  <sub>programador junior &nbsp;·&nbsp; java, web y lo que se ponga por delante &nbsp;·&nbsp; 2D &gt; 3D</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=39C5BB&center=true&vCenter=true&width=520&lines=programador+junior+%E2%80%A2+java+%26+web;en+mi+m%C3%A1quina+funciona+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;2D+%3E+3D;cargando+puerros...+%F0%9F%A5%AC" alt="programador junior · java & web" />
 </p>
 
 <br>
 
-### ⋆ sobre mí
+### 🥬 sobre mí
 
 Hago cosas con código desde hace poco y me lo paso bastante bien. Casi todo lo que hay por aquí son proyectos míos: unos salen bien, otros no tanto, pero de todos aprendo algo. Me tira mucho lo que mezcla programación con algo visual o creativo.
 
@@ -16,47 +16,100 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
 <br>
 
-### ⋆ con qué trabajo
+### 🥬 entrada de la pokédex
+
+<table>
+  <tr><td><b>Nº</b></td><td>#031 &nbsp;·&nbsp; Darko31Z</td></tr>
+  <tr><td><b>Tipo</b></td><td><code>Código</code> <code>Insomnio</code></td></tr>
+  <tr><td><b>Habilidad</b></td><td>En mi máquina funciona</td></tr>
+  <tr><td><b>Habilidad oculta</b></td><td>Arregla el bug justo cuando alguien mira</td></tr>
+  <tr><td><b>Debilidad</b></td><td>Centrar un div (x4)</td></tr>
+  <tr><td><b>Evolución</b></td><td>Junior → Senior a nivel 36 &nbsp;<sub>(requiere mucha cafeína)</sub></td></tr>
+</table>
+
+> *Vive en hábitats oscuros iluminados solo por un monitor. Si lo ves escribiendo rápido a las 3 de la mañana, no lo molestes: está a punto de descubrir que le faltaba un punto y coma.*
+
+<br>
+
+### 🥬 con qué trabajo
 
 <p>
-  <img src="https://img.shields.io/badge/Java-17151f?style=flat-square&logo=openjdk&logoColor=f2d9ff" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-17151f?style=flat-square&logo=html5&logoColor=f2d9ff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-17151f?style=flat-square&logo=css3&logoColor=f2d9ff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-17151f?style=flat-square&logo=javascript&logoColor=f2d9ff" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Terminal-17151f?style=flat-square&logo=windows-terminal&logoColor=f2d9ff" alt="Terminal" />
-  <img src="https://img.shields.io/badge/Python_(aprendiendo)-17151f?style=flat-square&logo=python&logoColor=f2d9ff" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39C5BB" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=39C5BB" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=39C5BB" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=39C5BB" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Terminal-0d1117?style=flat-square&logo=windows-terminal&logoColor=39C5BB" alt="Terminal" />
+  <img src="https://img.shields.io/badge/Python_(aprendiendo)-0d1117?style=flat-square&logo=python&logoColor=E12885" alt="Python" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/español-nativo-17151f?style=flat-square&labelColor=2a2535&color=17151f" alt="Español nativo" />
-  <img src="https://img.shields.io/badge/english-B2-17151f?style=flat-square&labelColor=2a2535&color=17151f" alt="English B2" />
+  <img src="https://img.shields.io/badge/español-nativo-39C5BB?style=flat-square&labelColor=0d1117" alt="Español nativo" />
+  <img src="https://img.shields.io/badge/english-B2-E12885?style=flat-square&labelColor=0d1117" alt="English B2" />
 </p>
 
 <br>
 
-### ⋆ ahora mismo
+### 🥬 ahora mismo
 
 ```
-aprendiendo   →  python
-trabajando en →  proyectitos míos
-objetivo      →  pasar a la historia
+♪ now playing
+  World is Mine — Hatsune Miku
+
+  1:42 ━━━━━━━━●─────────── 4:13
+        ⇄     ◁◁    ❚❚    ▷▷     ♡
+
+  a continuación:
+  01  aprendiendo     →  python
+  02  trabajando en   →  proyectitos míos
+  03  objetivo        →  pasar a la historia
 ```
 
 <br>
+
+### 🥬 galería
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/imagen-1.jpg" width="240" alt="" /><br><sub>#001</sub></td>
+    <td align="center"><img src="assets/imagen-2.jpg" width="240" alt="" /><br><sub>#002</sub></td>
+    <td align="center"><img src="assets/imagen-3.jpg" width="240" alt="" /><br><sub>#003</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/imagen-4.jpg" width="240" alt="" /><br><sub>#004</sub></td>
+    <td align="center"><img src="assets/imagen-5.jpg" width="240" alt="" /><br><sub>#005</sub></td>
+    <td align="center"><img src="assets/imagen-6.jpg" width="240" alt="" /><br><sub>#006</sub></td>
+  </tr>
+</table>
+
+<br>
+
+### 🥬 estadísticas
 
 <p align="center">
-  <img src="assets/imagen-1.jpg" width="32%" alt="" />
-  <img src="assets/imagen-2.jpg" width="32%" alt="" />
-  <img src="assets/imagen-3.jpg" width="32%" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darko31Z&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39C5BB&icon_color=E12885&text_color=c9d1d9&locale=es" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darko31Z&layout=compact&hide_border=true&bg_color=0d1117&title_color=39C5BB&text_color=c9d1d9&locale=es" height="165" alt="lenguajes" />
 </p>
 
 <br>
 
-### ⋆ contacto
+### 🥬 contacto
 
-<a href="mailto:ultradario20@gmail.com"><img src="https://img.shields.io/badge/ultradario20@gmail.com-17151f?style=flat-square&logo=gmail&logoColor=f2d9ff" alt="email" /></a>
+**¡El entrenador Darío te desafía!**
 
-<br><br>
+<a href="mailto:ultradario20@gmail.com"><img src="https://img.shields.io/badge/ultradario20@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=39C5BB" alt="email" /></a>
 
-<p align="center"><sub>✦ gracias por pasarte ✦</sub></p>
+<br>
 
+<details>
+  <summary><sub>no pulses aquí</sub></summary>
+  <br>
+  <p align="center">
+    ↑ ↑ ↓ ↓ ← → ← → B A<br><br>
+    <b>¡Un MissingNo. salvaje apareció!</b><br>
+    <sub>bueno, era yo. ya que estás aquí: el pastel es mentira y Miku sigue teniendo 16 años.</sub>
+  </p>
+</details>
+
+<br>
+
+<p align="center"><sub>Darío usó README. ¡Es muy eficaz! &nbsp;·&nbsp; 01</sub></p>
