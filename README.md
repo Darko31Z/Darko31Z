@@ -2,7 +2,7 @@
 
 > Programador junior | Aprendiendo, creando y convirtiendo ideas en código.
 
-![Banner personalizado](file:///C:/Users/Dario/Downloads/Dario-profile-banner.svg)
+![Banner personalizado](https://pin.it/7ENYWmsqS)
 
 ## ☁️ Un poco sobre mí
 
@@ -34,16 +34,14 @@
 
 ## 🌙 Ahora mismo
 
-- 📚 Aprendiendo: **[lo que estés estudiando ahora]**
-- 🔭 Trabajando en: **[tu proyecto actual]**
-- 🎯 Próximo objetivo: **[algo que quieras conseguir]**
+- 📚 Aprendiendo: **Python**
+- 🔭 Trabajando en: **proyectitos mios**
+- 🎯 Próximo objetivo: **Pasar a la historia**
 
 ## 📫 Encuéntrame
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-- Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- Email: [ultradario20@gmail.com](ultradario20@gmail.com)
 
 <p align="center">
-  <sub>Hecho con ☕, curiosidad y muchas ganas de aprender.</sub>
+  <sub>2D mejor que 3D</sub>
 </p>
