@@ -3,7 +3,7 @@
 
 > Programador junior | Aprendiendo, creando y convirtiendo ideas en código.
 
-![Banner personalizado](<img width="733" height="187" alt="descarga" src="https://github.com/user-attachments/assets/0bce58a7-bf10-460d-8258-6d1ff8118855" />)
+![Banner personalizado](https://stock.adobe.com/search?k=anime+banner)
 
 ## ☁️ Un poco sobre mí
 
