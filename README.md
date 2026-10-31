@@ -10,21 +10,31 @@
 
 ### 🥬 sobre mí
 
+<img src="assets/imagen-1.jpg" align="right" width="200" alt="" />
+
 Hago cosas con código desde hace poco y me lo paso bastante bien. Casi todo lo que hay por aquí son proyectos míos: unos salen bien, otros no tanto, pero de todos aprendo algo. Me tira mucho lo que mezcla programación con algo visual o creativo.
 
 Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
+<br clear="right">
 <br>
 
 ### 🥬 entrada de la pokédex
 
 <table>
-  <tr><td><b>Nº</b></td><td>#031 &nbsp;·&nbsp; Darko31Z</td></tr>
-  <tr><td><b>Tipo</b></td><td><code>Código</code> <code>Insomnio</code></td></tr>
-  <tr><td><b>Habilidad</b></td><td>En mi máquina funciona</td></tr>
-  <tr><td><b>Habilidad oculta</b></td><td>Arregla el bug justo cuando alguien mira</td></tr>
-  <tr><td><b>Debilidad</b></td><td>Centrar un div (x4)</td></tr>
-  <tr><td><b>Evolución</b></td><td>Junior → Senior a nivel 36 &nbsp;<sub>(requiere mucha cafeína)</sub></td></tr>
+  <tr>
+    <td align="center"><img src="assets/imagen-2.jpg" width="180" alt="" /><br><sub>#031</sub></td>
+    <td>
+      <table>
+        <tr><td><b>Nº</b></td><td>#031 &nbsp;·&nbsp; Darko31Z</td></tr>
+        <tr><td><b>Tipo</b></td><td><code>Código</code> <code>Insomnio</code></td></tr>
+        <tr><td><b>Habilidad</b></td><td>En mi máquina funciona</td></tr>
+        <tr><td><b>Habilidad oculta</b></td><td>Arregla el bug justo cuando alguien mira</td></tr>
+        <tr><td><b>Debilidad</b></td><td>Centrar un div (x4)</td></tr>
+        <tr><td><b>Evolución</b></td><td>Junior → Senior a nivel 36 &nbsp;<sub>(requiere mucha cafeína)</sub></td></tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 > *Vive en hábitats oscuros iluminados solo por un monitor. Si lo ves escribiendo rápido a las 3 de la mañana, no lo molestes: está a punto de descubrir que le faltaba un punto y coma.*
@@ -32,6 +42,8 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 <br>
 
 ### 🥬 con qué trabajo
+
+<img src="assets/imagen-5.jpg" align="right" width="170" alt="" />
 
 <p>
   <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39C5BB" alt="Java" />
@@ -47,9 +59,12 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
   <img src="https://img.shields.io/badge/english-B2-E12885?style=flat-square&labelColor=0d1117" alt="English B2" />
 </p>
 
+<br clear="right">
 <br>
 
 ### 🥬 ahora mismo
+
+<p align="center"><img src="assets/imagen-3.jpg" width="220" alt="portada" /></p>
 
 ```
 ♪ now playing
@@ -66,23 +81,6 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
 <br>
 
-### 🥬 galería
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="assets/imagen-1.jpg" width="240" alt="" /><br><sub>#001</sub></td>
-    <td align="center"><img src="assets/imagen-2.jpg" width="240" alt="" /><br><sub>#002</sub></td>
-    <td align="center"><img src="assets/imagen-3.jpg" width="240" alt="" /><br><sub>#003</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/imagen-4.jpg" width="240" alt="" /><br><sub>#004</sub></td>
-    <td align="center"><img src="assets/imagen-5.jpg" width="240" alt="" /><br><sub>#005</sub></td>
-    <td align="center"><img src="assets/imagen-6.jpg" width="240" alt="" /><br><sub>#006</sub></td>
-  </tr>
-</table>
-
-<br>
-
 ### 🥬 estadísticas
 
 <p align="center">
@@ -94,10 +92,13 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
 
 ### 🥬 contacto
 
+<img src="assets/imagen-4.jpg" align="right" width="160" alt="" />
+
 **¡El entrenador Darío te desafía!**
 
 <a href="mailto:ultradario20@gmail.com"><img src="https://img.shields.io/badge/ultradario20@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=39C5BB" alt="email" /></a>
 
+<br clear="right">
 <br>
 
 <details>
@@ -105,6 +106,7 @@ Si te apetece colaborar en algo o simplemente hablar, escríbeme.
   <br>
   <p align="center">
     ↑ ↑ ↓ ↓ ← → ← → B A<br><br>
+    <img src="assets/imagen-6.jpg" width="200" alt="" /><br>
     <b>¡Un MissingNo. salvaje apareció!</b><br>
     <sub>bueno, era yo. ya que estás aquí: el pastel es mentira y Miku sigue teniendo 16 años.</sub>
   </p>
